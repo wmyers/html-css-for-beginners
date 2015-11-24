@@ -1,0 +1,38 @@
+.container {
+  margin-bottom: 30px;
+}
+
+.item {
+  padding: 4px 8px;
+  margin: 0 3px 0 0;
+  background: gainsboro;
+  border: 2px dashed crimson;
+  max-width: 150px;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-inline {
+  display: inline;
+}
+
+.display-inline-block {
+  display: inline-block;
+}
+
+.display-table {
+  display: table;
+  border: 2px dashed blue;
+  padding: 10px;
+}
+
+.display-table-row {
+  display: table-row;
+  padding: 10px;
+}
+
+.display-table-cell {
+  display: table-cell;
+}

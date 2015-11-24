@@ -1,0 +1,24 @@
+.outer-circle {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: red;
+  border-radius: 50%;
+}
+.square {
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  background: yellow;
+  top: 30px;
+  left: 30px;
+}
+.inner-circle {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: blue;
+  border-radius: 50%;
+  top: 20px;
+  left: 20px;
+}

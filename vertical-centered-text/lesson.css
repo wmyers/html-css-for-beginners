@@ -1,4 +1,5 @@
 /* Old skool */
+
 .display-table-container {
   display: table;
   width: 200px;
@@ -8,6 +9,7 @@
   border-radius: 50%;
   padding: 10px;
 }
+
 .display-table-item {
   display: table-cell;
   vertical-align: middle;
@@ -15,7 +17,9 @@
   /*background-color: tomato;*/
 }
 
+
 /* Flexbox */
+
 .flexbox-container {
   display: flex;
   width: 200px;
@@ -28,6 +32,7 @@
 }
 
 .flexbox-item {
-  margin: auto;  /* Magic! */
+  margin: auto;
+  /* Magic! */
   /*background-color: tomato;*/
 }
